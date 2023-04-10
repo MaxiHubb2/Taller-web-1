@@ -21,7 +21,7 @@ CSS
 - Sistema de valoración y comentarios: dejar valoraciones y comentarios sobre los productos.
 - Integración con API de proveedores de café: mostrar información sobre los productos de los proveedores.
 - Mapa de ubicaciones de los productores: mostrar las ubicaciones de los proveedores en un mapa.
-- Información sobre el origen del café: mostrar información sobre el origen y características de los productos.
+- Integración con redes sociales: permitir a los usuarios compartir sus compras y opiniones sobre los productos en sus redes sociales.
 - Suscripción a boletines informativos: suscribirse a boletines informativos para estar al tanto de las novedades.
 
 ## Cómo utilizar
